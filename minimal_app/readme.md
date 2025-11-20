@@ -6,7 +6,7 @@
 2. В [CMakeLists.txt](CMakeLists.txt) шаблона измените путь к движку
 3. Запустите `build_mingw.bat`, `build_vs.bat` или `build_linux.sh`
 
-Подробнее о процессе сборки: <https://github.com/dviglo2d/dviglo2d/blob/main/engine/docs/building.md>.
+Подробнее о процессе сборки: <https://github.com/dviglo2d/dviglo2d_gl/blob/main/engine/docs/building.md>.
 
 ## Добавление новых исходных файлов в проект
 

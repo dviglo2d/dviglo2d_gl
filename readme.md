@@ -1,16 +1,18 @@
-[![DvStdLib](https://github.com/dviglo2d/dviglo2d/actions/workflows/dv_std_lib.yml/badge.svg)](https://github.com/dviglo2d/dviglo2d/actions/workflows/dv_std_lib.yml)
-[![Engine](https://github.com/dviglo2d/dviglo2d/actions/workflows/engine.yml/badge.svg)](https://github.com/dviglo2d/dviglo2d/actions/workflows/engine.yml)
-[![MinimalApp](https://github.com/dviglo2d/dviglo2d/actions/workflows/minimal_app.yml/badge.svg)](https://github.com/dviglo2d/dviglo2d/actions/workflows/minimal_app.yml)
-[![DvBigInt](https://github.com/dviglo2d/dviglo2d/actions/workflows/dv_big_int.yml/badge.svg)](https://github.com/dviglo2d/dviglo2d/actions/workflows/dv_big_int.yml)
-[![Main](https://github.com/dviglo2d/dviglo2d/actions/workflows/main.yml/badge.svg)](https://github.com/dviglo2d/dviglo2d/actions/workflows/main.yml)
+[![DvStdLib](https://github.com/dviglo2d/dviglo2d_gl/actions/workflows/dv_std_lib.yml/badge.svg)](https://github.com/dviglo2d/dviglo2d_gl/actions/workflows/dv_std_lib.yml)
+[![Engine](https://github.com/dviglo2d/dviglo2d_gl/actions/workflows/engine.yml/badge.svg)](https://github.com/dviglo2d/dviglo2d_gl/actions/workflows/engine.yml)
+[![MinimalApp](https://github.com/dviglo2d/dviglo2d_gl/actions/workflows/minimal_app.yml/badge.svg)](https://github.com/dviglo2d/dviglo2d_gl/actions/workflows/minimal_app.yml)
+[![DvBigInt](https://github.com/dviglo2d/dviglo2d_gl/actions/workflows/dv_big_int.yml/badge.svg)](https://github.com/dviglo2d/dviglo2d_gl/actions/workflows/dv_big_int.yml)
+[![Main](https://github.com/dviglo2d/dviglo2d_gl/actions/workflows/main.yml/badge.svg)](https://github.com/dviglo2d/dviglo2d_gl/actions/workflows/main.yml)
 
 # Dviglo2D
 
 Игровой движок на основе SpriteBatch.
 
+Старая версия на OpenGL.
+
 Поддерживаемые ОС: Linux и Windows 10+.
 
-Скачивание репозитория с подмодулями в папку repo: `git clone --recurse-submodules --shallow-submodules https://github.com/dviglo2d/dviglo2d repo`.
+Скачивание репозитория с подмодулями в папку repo: `git clone --recurse-submodules --shallow-submodules https://github.com/dviglo2d/dviglo2d_gl repo`.
 
 Для компиляции в Linux запустите `build_linux.sh`. Необходимые зависимости: [engine/docs/building.md](engine/docs/building.md).
 
